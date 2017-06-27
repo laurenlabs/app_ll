@@ -1,0 +1,15 @@
+.index-container, .user-container, .player-container {
+    margin-top: 50px;
+}
+
+#addPlayer button{
+    float:right;
+}
+
+hidden {
+    display: none;
+}
+
+.signup-error, .login-error {
+    color: #f00;
+}
